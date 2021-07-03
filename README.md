@@ -2,6 +2,7 @@
 ### 位运算
 * [461.汉明距离](https://github.com/evillawliet/LeetCode/tree/main/BitManipulation/461.HammingDistance)
 * [190.颠倒二进制位](https://github.com/evillawliet/LeetCode/tree/main/BitManipulation/190.ReverseBits)
+* [136.只出现一次的数字](https://github.com/evillawliet/LeetCode/tree/main/BitManipulation/136.SingleNumber)
 
 -------
 
