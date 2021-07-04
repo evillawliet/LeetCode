@@ -1,7 +1,8 @@
 # LeetCode 刷题笔记
 
 ## 每日一题
-* [451. 根据字符出现频率排序](https://github.com/evillawliet/LeetCode/tree/main/Daily/451.SortCharactersByFrequency)
+* [451.根据字符出现频率排序](https://github.com/evillawliet/LeetCode/tree/main/Daily/451.SortCharactersByFrequency)
+* [645.错误的集合](https://github.com/evillawliet/LeetCode/tree/main/Daily/645.SetMismatch)
 
 ## 分类
 ### 位运算
